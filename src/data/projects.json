@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Image AI",
+    "imageSrc": "projects/imageai.png",
+    "description": "This is an ai image generation app, where you can also upload your creativity.",
+    "skills": ["React", "Vite", "Express", "Mongodb"],
+    "demo": "https://github.com/Soumyajit2005/Image-AI",
+    "source": "https://github.com/Soumyajit2005/Image-AI"
+  },
+  {
+    "title": "Sushi Center",
+    "imageSrc": "projects/sushicenter.png",
+    "description": "This is a landing page for a sushi shop, with mordern animations.",
+    "skills": ["Node", "HTML", "AOS", "Sass", "Tailwind"],
+    "demo": "https://sushi-center.netlify.app/",
+    "source": "https://github.com/Soumyajit2005/Sushi-shop-Website"
+  },
+  {
+    "title": "3D Portfolio",
+    "imageSrc": "projects/3dportfolio.png",
+    "description": "This is a 3D portfolio made using react and three js using professional animations.",
+    "skills": ["React", "Three.js", "Email.js", "Tailwind"],
+    "demo": "https://soumyajit-portfolio-01.netlify.app/",
+    "source": "https://github.com/Soumyajit2005/Portfolio-01"
+  },
+  {
+    "title": "Bellebot",
+    "imageSrc": "projects/bellebot.png",
+    "description": "This is a Bellebot landing page made using only frontend and vanilla html, css , js.",
+    "skills": ["Html", "CSS", "Javascript", "Tailwind"],
+    "demo": "https://soumyajit2005.github.io/Belle-Bot/",
+    "source": "https://github.com/Soumyajit2005/Belle-Bot"
+  },
+  {
+    "title": "Youtube Clone",
+    "imageSrc": "projects/youtubeclone.png",
+    "description": "This is a youtube clone made using next.js. It uses youtube apis.",
+    "skills": ["React", "Next", "Node", "Tailwind"],
+    "demo": "https://github.com/Soumyajit2005/Youtube-clone",
+    "source": "https://github.com/Soumyajit2005/Youtube-clone"
+  },
+  {
+    "title": "Code Craft",
+    "imageSrc": "projects/codecraft.png",
+    "description": "This is a frontend landing page with cool animations and a professional touch.",
+    "skills": ["Html", "Css", "Tailwind", "Javascript"],
+    "demo": "https://soumyajit2005.github.io/codecraftps1/",
+    "source": "https://github.com/Soumyajit2005/codecraftps1"
+  }
+]

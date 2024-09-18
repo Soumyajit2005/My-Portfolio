@@ -1,0 +1,30 @@
+[
+    
+    {
+      "role": "SDE intern",
+      "organisation": "Taskbot",
+      "startDate": "Apr, 2023",
+      "endDate": "Jun, 2023",
+      "experiences": [
+        "Worked on react js ",
+        "Helped create Chrome extensions"
+      ],
+      "imageSrc": "history/intern.png"
+    },
+    {
+      "role": "Web Developer Intern",
+      "organisation": "CodeSoft",
+      "startDate": "July, 2024",
+      "endDate": "Sep, 2024",
+      "experiences": ["Worked on Frontend Development", "Made Projects using React.js, Tailwind css and Node js"],
+      "imageSrc": "history/webdeveloper.png"
+    },
+    {
+      "role": "Backend Developer Intern",
+      "organisation": "Internpe",
+      "startDate": "Aug, 2024",
+      "endDate": "September, 2024",
+      "experiences": ["Worked on backend", "Designed the backend server"],
+      "imageSrc": "history/backend.png"
+    }
+  ]
