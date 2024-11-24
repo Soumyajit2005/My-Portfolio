@@ -79,6 +79,10 @@
         z-index: 3;
     }
 
+    .title{
+        display: none;
+    }
+
     .menuBtn{
         display: block;
         cursor: pointer;

@@ -46,5 +46,29 @@
     "skills": ["Html", "Css", "Tailwind", "Javascript"],
     "demo": "https://soumyajit2005.github.io/codecraftps1/",
     "source": "https://github.com/Soumyajit2005/codecraftps1"
+  },
+  {
+    "title": "Harry Potter",
+    "imageSrc": "projects/harryPotter.png",
+    "description": "This is a website made using potterAPI and professional api handeling.",
+    "skills": ["React", "Axios", "Tailwind", "API"],
+    "demo": "https://harryypottersite.netlify.app/",
+    "source": "https://github.com/Soumyajit2005/HarryPotter"
+  },
+  {
+    "title": "Tour Guide",
+    "imageSrc": "projects/tourGuide.png", 
+    "description": "This is a frontend webpage for a tourguide app with cool features and animations.",
+    "skills": ["HTML", "CSS", "Javascript", "Tailwind"],
+    "demo": "https://soumyajit2005.github.io/SOUMYAJIT_PARIA_GDSCMSIT/",
+    "source": "https://github.com/Soumyajit2005/SOUMYAJIT_PARIA_GDSCMSIT"
+  },
+  {
+    "title": "ToDo App in Angular",
+    "imageSrc": "projects/todoAppAngular.png", 
+    "description": "This is a toDo app with real time CRUD operations and mordern UI.",
+    "skills": ["Angular", "JSON Server", "Tailwihnd"],
+    "demo": "https://github.com/Soumyajit2005/TodoAppInAngular",
+    "source": "https://github.com/Soumyajit2005/TodoAppInAngular"
   }
 ]
